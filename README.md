@@ -1,5 +1,8 @@
 add the uri of the server in main.js
 
+password of users: password
+password of anas: anas123
+
 # lc-vue-graphql
 
 ## Project setup
