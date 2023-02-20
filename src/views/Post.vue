@@ -15,7 +15,7 @@
       </div>
     </div>
 
-    <div v-if="post.user.id === me.id">
+    <div v-if="post.user.id === me?.id">
       <router-link :to="{ name: 'Update', params: { id: $route.params.id } }">
         Update
       </router-link>
